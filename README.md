@@ -52,6 +52,9 @@ Depending on your platform, these are typically named libcoinX.so or libcoinX.dl
  4. Check the bin directory to find the `k_aug` executable
  5. (*Windows*) add the LAPACK library directory to the PATH (*Cygwin* typically `/usr/lib/lapack`, as well the `libcoinX.dll.a` files (typically located at `/usr/local/lib/`)
 
+## Installation (Windows)
+Visit the https://github.com/gulhameed361/k_aug-Installation-Manual-for-Windows.git repository, and follow detailed instructions (written in 2023) to install k_aug on latest Windows.
+
 ## Installation (Mac OS X)
  1. Install IPOPT with the HSL libraries e.g. MA57. Please follow the instructions from the [documentation](https://coin-or.github.io/Ipopt/INSTALL.html)
 
